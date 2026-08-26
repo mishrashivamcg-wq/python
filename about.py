@@ -1,2 +1,4 @@
 #welcome message
-print("Python is a powerful programming language!")
+age=24
+age=str(age)
+print("age")
