@@ -57,3 +57,9 @@ if is_indian=="yes":
     print("You are an Indian citizen.")
 else:
     print("You are not an Indian citizen.")   
+
+
+    
+
+entered_firstnumber = int(input("Enter first number: "))
+ 
